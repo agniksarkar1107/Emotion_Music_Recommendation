@@ -7,7 +7,7 @@ mediapipe
 keras
 Pillow
 tensorflow
-tensorrt
+
 
 
 
