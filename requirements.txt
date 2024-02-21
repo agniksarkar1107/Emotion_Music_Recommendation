@@ -2,8 +2,8 @@ streamlit
 streamlit_webrtc
 av
 cv2 
-numpy as np 
-mediapipe as mp 
+numpy 
+mediapipe 
 keras
 webbrowser
 Pillow
