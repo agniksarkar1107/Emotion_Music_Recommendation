@@ -1,1 +1,13 @@
+streamlit
+streamlit_webrtc
+av
+cv2 
+numpy as np 
+mediapipe as mp 
+keras
+webbrowser
+Pillow
+
+
+
 
