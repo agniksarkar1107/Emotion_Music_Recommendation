@@ -10,7 +10,7 @@ import webbrowser
 
 from PIL import Image
 
-im = Image.open('/Users/agniksarkar/emotion_music_recommend/d990b9bd9184df62c7f86937ccc977f9.jpg')
+im = Image.open('d990b9bd9184df62c7f86937ccc977f9.jpg')
 st.set_page_config( page_title="Emovibe", page_icon = im ,layout="wide")  
 
 
