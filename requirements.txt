@@ -5,7 +5,6 @@ opencv-python
 numpy 
 mediapipe 
 keras
-webbrowser
 Pillow
 
 
